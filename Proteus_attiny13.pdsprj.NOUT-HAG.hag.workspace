@@ -13,9 +13,9 @@
   </WINDOW>
   <WINDOW type="VIEW3D" module="VIEW3D">
    <camera>
-    <position x="234786" y="-539222" z="6161975"/>
-    <focus x="1180286" y="328315" z="-116988"/>
-    <up x="-453570" y="889551" z="54603"/>
+    <position x="506550" y="-4106392" z="4531642"/>
+    <focus x="506550" y="425250" z="0"/>
+    <up x="0" y="707106" z="707106"/>
    </camera>
   </WINDOW>
  </FRAME>
