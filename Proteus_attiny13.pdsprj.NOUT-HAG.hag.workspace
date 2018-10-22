@@ -11,13 +11,6 @@
     <PROGRAMMER NAME="" INTERFACE=""/>
    </PROJECT>
   </WINDOW>
-  <WINDOW type="VIEW3D" module="VIEW3D">
-   <camera>
-    <position x="506550" y="-4106392" z="4531642"/>
-    <focus x="506550" y="425250" z="0"/>
-    <up x="0" y="707106" z="707106"/>
-   </camera>
-  </WINDOW>
  </FRAME>
  <MODULE name="VSMDEBUG">
   <PWI/>
